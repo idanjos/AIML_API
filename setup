@@ -1,0 +1,2 @@
+#!/bin/bash
+mvn install:install-file -Dfile=src/lib/Ab.jar -DgroupId=ab_aiml -DartifactId=ab_aiml -Dversion=1.0 -Dpackaging=jar
