@@ -1,14 +1,13 @@
 # AIML_API
-== Description
 The project combines AIML chatbot with an API using Springboot.
 
-== Requirements
+# Requirements
 Java 8
 Maven
 
-== Installation
+# Installation
 ./setup
 
-== Running the Application
+# Running the Application
 ./run
 
